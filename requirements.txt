@@ -2,3 +2,4 @@ fastapi[all]
 SQLAlchemy
 sqlparse
 psycopg2
+unicorn
