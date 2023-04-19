@@ -1,6 +1,6 @@
 ﻿SQLAlchemy==2.0.9
 sqlparse==0.4.3
 fastapi==0.95.1
-unicorn==20.1.0
+uvicorn==20.1.0
 Jinja2==3.1.2
 jsonschema==4.17.3
